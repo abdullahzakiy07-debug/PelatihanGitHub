@@ -1,2 +1,6 @@
 Jeki weki 
 adalah instagram gua
+dan jeki harus bisa melawan 
+candu game
+
+#include<iostream>
